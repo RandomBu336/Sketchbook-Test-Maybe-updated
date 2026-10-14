@@ -96,5 +96,5 @@ Big thank you to each of the following github users for contributing to Sketchbo
 - [aleqsunder](https://github.com/aleqsunder)
 - [barhatsor](https://github.com/barhatsor)
 - [danshuri](https://github.com/danshuri)
-*this one i added to give credit
 - [swift502](https://github.com/swift502)
+*this one i added to give credit
