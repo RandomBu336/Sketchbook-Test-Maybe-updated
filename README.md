@@ -5,9 +5,9 @@
 	<br>
 </p>
 
-# Final update (20. Feb 2023)
+# First update by me, and not swift502 (14. Oct 2026)
 
-As I have no more interest in developing this project, it comes to a conclusion. In order to remain honest about the true state of the project, I am archiving this repository.
+I got ideas man, so i'm gonna make them i guess. This is still swift's engine.
 
 - If you wish to modify Sketchbook feel free to fork it.
 - To see if someone is currently maintaining a fork, check out the [Network Graph](https://github.com/swift502/Sketchbook/network).
@@ -16,7 +16,7 @@ As I have no more interest in developing this project, it comes to a conclusion.
 
 Simple web based game engine built on [three.js](https://github.com/mrdoob/three.js) and [cannon.js](https://github.com/schteppe/cannon.js) focused on third-person character controls and related gameplay mechanics.
 
-Mostly a playground for exploring how conventional third person gameplay mechanics found in modern games work and recreating them in a general way.
+I don't know what i'm adding yet, but i'll add stuff
 
 ## Features
 
@@ -39,7 +39,7 @@ Mostly a playground for exploring how conventional third person gameplay mechani
 All planned features can be found in the [GitHub Projects](https://github.com/swift502/Sketchbook/projects).
 
 ## Usage
-
+Swift's instructions:
 You can define your own scenes in Blender, and then read them with Sketchbook. Sketchbook needs to run on a local server such as [http-server](https://www.npmjs.com/package/http-server) or [webpack-dev-server](https://github.com/webpack/webpack-dev-server) to be able to load external assets.
 
 <!-- #### Script tag -->
@@ -89,10 +89,12 @@ const world = new World('scene.glb');
 5. Make changes and test them out at http://localhost:8080
 6. Commit and [make a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)!
 
-## Credits
+## Swift's Credits
 
 Big thank you to each of the following github users for contributing to Sketchbook:
 
 - [aleqsunder](https://github.com/aleqsunder)
 - [barhatsor](https://github.com/barhatsor)
 - [danshuri](https://github.com/danshuri)
+*this one i added to give credit
+- [swift502](https://github.com/swift502)
